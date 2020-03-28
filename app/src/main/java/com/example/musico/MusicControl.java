@@ -51,6 +51,5 @@ public class MusicControl{
         } catch (IOException e) {
             Log.e("MusicAdapter", "Player Error" + mMusic.mPath);
         }
-
     }
 }
